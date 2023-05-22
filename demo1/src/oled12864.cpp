@@ -132,7 +132,7 @@ void OLED_Cache_to_hardware()
 				
 			}else
 			{b=0;}
-			OLED_buff[y][x]=0x00;
+			//OLED_buff[y][x]=0x00;
 		}
 	}
 }
